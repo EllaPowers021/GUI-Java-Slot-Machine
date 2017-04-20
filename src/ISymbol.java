@@ -1,6 +1,6 @@
 import javax.swing.JLabel;
 
-//this interface includes all methods for the
+//this interface includes all methods for the image controls
 public interface ISymbol {
 	
 	void setImage(JLabel comp);
